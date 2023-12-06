@@ -1,8 +1,6 @@
 <p align="center">
-<img src=https://via.placeholder.com/150/>
+<img src=https://static1.squarespace.com/static/5da5d537874e8c5ee9565ad0/t/5ef882a3e30e714667e7935e/1593344682130/Awarri_Horizontal+Logo+Lockup_Red+-+edit.png?format=1500w>
 </p>
-
-***Replace any content text in bold.***
 
 # Test Introduction
 
@@ -86,7 +84,9 @@ As part of the Awarri team, you are assigned to set up and customize our in hous
 **Note:** If you have further questions or need additional clarifications, please feel free to reach out during the preparation or at the beginning of your live demonstration. We aim to provide you with all the necessary support to successfully complete this task.
 
 # Troubleshooting & Support
-Test@Awarri.com
+Email both 
+Silas@awarri.com
+Chris@awarri.com
 
 # Terms & Conditions for Interview Tests
 
