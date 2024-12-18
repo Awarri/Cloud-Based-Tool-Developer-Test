@@ -31,7 +31,7 @@ As part of the Awarri team, you are assigned to set up and customize our in hous
 
 ## Deliverables & Submission
 
-- **1 Hour Live Demonstration**: Present a live demonstration of the setup and operational system during a scheduled Zoom call.
+- **Live Demonstration**: Present a live demonstration of the setup and operational system during a scheduled Zoom call.
 - **Verbal Explanation**: Provide a detailed verbal explanation during the demo, covering the CVAT setup process, integration of the SAM module, and the custom branding implementation.
 - **Functionality Showcase**: Demonstrate the system's functionality, emphasizing any added features or capabilities you have incorporated.
 
